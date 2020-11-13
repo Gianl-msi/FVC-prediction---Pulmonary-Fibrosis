@@ -19,8 +19,8 @@ The goal of this study was to develop a deep learning-based algorithm that, base
 Dataset is available on Kaggle(https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression)
 
 ## Docs
-- [Final Report](https://github.com/Gianl-msi/FVC-prediction---Pulmonary-Fibrosis/blob/master/Lung%20fibrosis%20FVC%20Prediction%20FINAL%20REPORT.pdf)
-- [Slide Deck](https://github.com/Gianl-msi/FVC-prediction---Pulmonary-Fibrosis/blob/master/Patient%20lung%20capacity%20PRED%20SLIDES.pdf)
+- [Final Report](https://github.com/Gianl-msi/FVC-prediction---Pulmonary-Fibrosis/blob/master/Lung%20capacity%20prediction%20in%20patients%20with%20pulmonary%20fibrosis%20-%20REPORT.pdf)
+- [Slide Deck](https://github.com/Gianl-msi/FVC-prediction---Pulmonary-Fibrosis/blob/master/Lung%20capacity%20prediction%20in%20patients%20with%20pulmonary%20fibrosis%20-%20SLIDES.pdf)
 
 ## Notebooks
 - [Data Wrangling, EDA, Modeling](https://github.com/Gianl-msi/FVC-prediction---Pulmonary-Fibrosis/blob/master/Data%20wrangling%20-%20EDA%20-%20Modeling%20-%20Lung%20Fibrosis.ipynb)
