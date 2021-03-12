@@ -1,6 +1,6 @@
 # FVC-prediction---Pulmonary-Fibrosis
 
-<img src="https://github.com/Gianl-msi/FVC-prediction---Pulmonary-Fibrosis/blob/master/images/lung%20carved.JPG" width="500" height="250"/>
+<img src="https://github.com/Gianl-msi/FVC-prediction---Pulmonary-Fibrosis/blob/master/images/lung%20carved.JPG" width="400" height="250"/>
 
 ### Table of Contents
 - [Abstract](#Abstract)
